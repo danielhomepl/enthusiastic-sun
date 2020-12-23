@@ -16,7 +16,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/hero.svg
+    image: /images/Quote_-Breathe-Rainbow-Text-instagram-stories.jpg
     image_position: right
     has_background: true
     background:
