@@ -17,7 +17,7 @@ sections:
         style: secondary
     align: left
     image: /images/Quote_-Breathe-Rainbow-Text-instagram-stories.jpg
-    image_position: right
+    image_position: left
     has_background: true
     background:
       background_color: blue
